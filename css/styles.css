@@ -50,6 +50,13 @@ body
     background: white;
     padding: 1em;
 }
+#bear
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 #footer
 {
     background: #777;   
